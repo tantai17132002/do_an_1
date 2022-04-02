@@ -1,1 +1,2 @@
-# do_an_1
+# Xin chào mọi người!
+# Mình là TNTT.
